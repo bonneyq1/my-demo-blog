@@ -1,1 +1,15 @@
 /* your styles will go here!! */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.headerbanner {
+    background-color: #FFEDD8;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    margin: 0, 0 auto;
+  }
