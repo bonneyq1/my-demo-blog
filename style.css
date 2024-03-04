@@ -1,1 +1,8 @@
 /* your styles will go here!! */
+.welcome {
+    background-color: #FFEDD8;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+  }
