@@ -1,10 +1,13 @@
 /* your styles will go here!! */
+<<<<<<< HEAD
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+=======
+>>>>>>> 45bfa150cd14bb2613f3ff407f23fac937891eb1
 .headerbanner {
     background-color: #FFEDD8;
     box-sizing: border-box;
@@ -12,4 +15,13 @@
     text-align: center;
     width: 100%;
     margin: 0, 0 auto;
+<<<<<<< HEAD
+=======
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+>>>>>>> 45bfa150cd14bb2613f3ff407f23fac937891eb1
   }
